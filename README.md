@@ -73,7 +73,7 @@ With the latest update, multiple author blogs are now supported out of the box.
 
 Following on the way Casper styles are compiled as [described here](https://github.com/tryghost/casper#development):
 
-Jasper2 styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need Node and Gulp installed globally. After that, from the theme's root directory:
+Styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need Node and Gulp installed globally. After that, from the theme's root directory:
 
 ```bash
 $ npm install
@@ -85,16 +85,9 @@ Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/
 ## Issues and Contributing
 
 This install builds well with Ruby v2.4.2 and Jekyll v3.6.2. If you run into any problems
-please log them on the [issue tracker](https://github.com/myJekyll/jasper2/issues).
+please log them on the [issue tracker](https://github.com/sanchez2210/therubyhermit-jekyll/issues).
 
 Feel free pull-request your patches and fixes.
-
-## Thanks
-
-
-Many thanks to the Ghost team for all the design work. Also many thanks to all contributors,
-that help keeping the project alive and updated :smile:
-
 
 ## Copyright & License
 
