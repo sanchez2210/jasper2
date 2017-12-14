@@ -9,7 +9,7 @@ baseurl: /therubyhermit/
 
 # Website info
 title: The Ruby Hermit
-description: The professional publishing platform
+description: A realistic guide to solo Ruby WebDev
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
