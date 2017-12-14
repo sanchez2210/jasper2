@@ -1,8 +1,8 @@
-## Jasper2
+## TheRubyHermit-Jekyll
 
-[![Build Status](https://travis-ci.org/myJekyll/jasper2.svg?branch=master)](https://travis-ci.org/myJekyll/jasper2)
-[![Ruby](https://img.shields.io/badge/ruby-2.4.2-blue.svg?style=flat)](http://travis-ci.org/myJekyll/jasper2)
-[![Jekyll](https://img.shields.io/badge/jekyll-3.6.2-blue.svg?style=flat)](http://travis-ci.org/myJekyll/jasper2)
+[![Build Status](https://travis-ci.org/sanchez2210/therubyhermit-jekyll.svg?branch=master)](https://travis-ci.org/sanchez2210/therubyhermit-jekyll)
+[![Ruby](https://img.shields.io/badge/ruby-2.4.2-blue.svg?style=flat)](https://travis-ci.org/sanchez2210/therubyhermit-jekyll)
+[![Jekyll](https://img.shields.io/badge/jekyll-3.6.2-blue.svg?style=flat)](https://travis-ci.org/sanchez2210/therubyhermit-jekyll)
 
 This is a full-featured port of Ghost's default theme [Casper](https://github.com/tryghost/casper)
 *v2.1.7* for [Jekyll](https://jekyllrb.com/) / [GitHub Pages](https://pages.github.com/).
